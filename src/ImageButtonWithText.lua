@@ -141,7 +141,7 @@ function ImageButtonWithTextClass:_updateButtonVisual()
 	end
 end
 
-function ImageButtonWithTextClass:getButton()
+function ImageButtonWithTextClass:GetButton()
 	return self._button
 end
 
